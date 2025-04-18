@@ -1,6 +1,6 @@
 # Thomas Young
 
-***📚  Biomechanist  🧮  Statistican  👨‍🔬  Data Scientist***
+***`📚  Biomechanist  🧮  Statistican  👨‍🔬  Data Scientist`***
 
 👋 Hi, I’m Thomas and I am a soon to be Graduate of The Univeristy of Tennesse in Biomechanics and Statistics!
 
@@ -14,7 +14,7 @@
 
 📫 The best way to reach me is over my university email: tyoung34@vols.utk.edu
 
-⚡ Fun fact: I really like to play tennis and pickleball! 
+⚡ Fun fact: I really like to play tennis and pickleball!
 
 ### Languages and Tools
 
