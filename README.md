@@ -1,3 +1,7 @@
+# Thomas Young
+
+***📚  Biomechanist  🧮  Statistican  👨‍🔬  Data Scientist***
+
 👋 Hi, I’m Thomas and I am a soon to be Graduate of The Univeristy of Tennesse in Biomechanics and Statistics!
 
 📖 +3 years of experience as a data scientist, I have succesfully led projects utilizing R, Python, SQL, Excel, and BI tools to optimize processes and enhance performace through data driven decisions. 
@@ -11,6 +15,27 @@
 📫 The best way to reach me is over my university email: tyoung34@vols.utk.edu
 
 ⚡ Fun fact: I really like to play tennis and pickleball! 
+
+### Languages and Tools
+
+<img align="left" alt="Anaconda" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />
+<img align="left" alt="PowerBI" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
+<img align="left" alt="DBeaver" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" />
+<img align="left" alt="Excel" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" />
+<img align="left" alt="Colab" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" />
+<img align="left" alt="RStudio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" />
+<img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
+<img align="left" alt="Powerpoint" width="30px" style="padding-right:10px;" 
+src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg"/>
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="SPSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spss/spss-original.svg" />
+<img align="left" alt="MATLAB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
+<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
+<img align="left" alt="Tableau" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/18670428/67620073-ca558e00-f7fa-11e9-9ea2-ed3a80c59210.png" />
+<img align="left" alt="VisualBasic" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" />
+<img align="left" alt="VisualStudio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
+<img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<img align="left" alt="Word" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg"/>
 
 <!---
 tbyoung4/tbyoung4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
