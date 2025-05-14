@@ -36,6 +36,8 @@ src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerP
 <img align="left" alt="VisualStudio" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
 <img align="left" alt="VSCode" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Word" width="25px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg"/>
+<img align="left" alt="Word" width="25px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
+<img align="left" alt="Word" width="25px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg"/>
 
 <!---
 tbyoung4/tbyoung4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
