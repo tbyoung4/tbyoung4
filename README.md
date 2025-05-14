@@ -33,10 +33,10 @@ src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerP
 <img align="left" alt="SQL" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
 <img align="left" alt="Tableau" width="25px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/18670428/67620073-ca558e00-f7fa-11e9-9ea2-ed3a80c59210.png" />
 <img align="left" alt="VisualBasic" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" />
-<img align="left" alt="VisualStudio" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
+<img align="left" alt="Tensorflow" width="25px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" />
 <img align="left" alt="VSCode" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Word" width="25px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg"/>
-<img align="left" alt="Word" width="25px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg"/>
+<img align="left" alt="PyTorch" width="25px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg"/>
 
 <!---
 tbyoung4/tbyoung4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
