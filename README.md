@@ -2,7 +2,7 @@
 
 ***`📚  Biomechanist  🧮  Statistican  👨‍🔬  Data Scientist`***
 
-👋 Hi, I’m Thomas and I am a recent grad of The Univeristy of Tennesse in Biomechanics and Statistics!
+👋 Hi, I’m Thomas and I am a recent Masters Graduate of The Univeristy of Tennesse in Biomechanics and Statistics!
 
 📖 +3 years of experience as a data scientist, I have succesfully led projects utilizing R, Python, SQL, Excel, and BI tools to optimize processes and enhance performace through data driven decisions. 
 
