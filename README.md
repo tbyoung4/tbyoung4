@@ -12,7 +12,7 @@
 
 🔎 My strengths are in exploratory data analysis as well as data wrangling. 
 
-📫 The best way to reach me is over my university email: tyoung34@vols.utk.edu
+📫 The best way to reach me is over my university email: [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tyoung34@vols.utk.edu)
 
 ⚡ Fun fact: I really like to play tennis and pickleball! [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@thomasyoung9606)
 
