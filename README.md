@@ -16,7 +16,7 @@
 
 ⚡ Fun fact: I really like to play tennis and pickleball!
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue)](https://tbyoung4.github.io/tbyoung4/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue)](https://tbyoung4.github.io/tbyoung4/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@thomasyoung9606)
 
 ### Languages and Tools
 
