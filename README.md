@@ -14,10 +14,9 @@
 
 📫 The best way to reach me is over my university email: tyoung34@vols.utk.edu
 
-⚡ Fun fact: I really like to play tennis and pickleball!
+⚡ Fun fact: I really like to play tennis and pickleball! [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@thomasyoung9606)
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue)](https://tbyoung4.github.io/tbyoung4/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@thomasyoung9606)
-
+[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue)](https://tbyoung4.github.io/tbyoung4/)
 ### Languages and Tools
 
 <img align="left" alt="Anaconda" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />
