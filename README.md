@@ -2,7 +2,7 @@
 
 ***`📚  Biomechanist  🧮  Statistican  👨‍🔬  Data Scientist`***
 
-👋 Hi, I’m Thomas and I am a recent Masters Graduate of The Univeristy of Tennesse in Biomechanics and Statistics!   [![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue)](https://tbyoung4.github.io/tbyoung4/)
+👋 Hi, I’m Thomas and I am a recent Masters Graduate of The Univeristy of Tennesse in Biomechanics and Statistics!
 
 📖 +3 years of experience as a data scientist, I have succesfully led projects utilizing R, Python, SQL, Excel, and BI tools to optimize processes and enhance performace through data driven decisions. 
 
@@ -10,11 +10,11 @@
 
 💻 I have developed and implemented machine learning models on numerical, categorical, and time series data for the completion of my Masters Degrees. Recently, I have created regression ML models to estimate failure predictions on large machinery. 
 
-🔎 My strengths are in exploratory data analysis as well as data wrangling. 
+🔎 My strengths are in exploratory data analysis as well as data wrangling. Here is my website: [![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue)](https://tbyoung4.github.io/tbyoung4/)
 
-📫 The best way to reach me is over my university email:   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tyoung34@vols.utk.edu)
+📫 The best way to reach me is over my university email: [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tyoung34@vols.utk.edu)
 
-⚡ Fun fact: I really like to play tennis and pickleball!   [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@thomasyoung9606)
+⚡ Fun fact: I really like to play tennis and pickleball! [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@thomasyoung9606)
 
 ### Languages and Tools
 
